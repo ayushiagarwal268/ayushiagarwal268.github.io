@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ""
 ---
 <!-- If we do not want any title then just leave it empty --> 
