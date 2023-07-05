@@ -10,7 +10,7 @@ title: "Education"
 * M.S. in Computer Science - University of Massachusetts (2022-)
 
 ### Certificates
-* [Machine Learning (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959035/Coursera.VFDU7GX5CAUE.-.Machine.Learning.pdf)
+* [Machine Learning (Coursera)](https://Anshumaan-Chauhan02.github.io/_certificates/Coursera.VFDU7GX5CAUE.-.Machine.Learning.pdf)
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959032/Coursera.DTAM9QAM8RRB.-.Hyperparameter.Tuning.Optimization.pdf)
 * [Neural Networks and Deep Learning (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959030/Coursera.T4ER9ME7SGYU.-.NN.and.DL.pdf)
 * [Structuring Machine Learning Projects (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959028/Coursera.P3YSQ6RFPS5T.-.Structuring.ML.Projects.pdf)
