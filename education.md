@@ -4,12 +4,12 @@ title: "Education"
 ---
 <!-- Check different Jekkyl layouts -->
 
-### Degrees
+### Degrees 🎓
 
 * B.E. in Computer Science - BITS Pilani Dubai Campus (2018-22)
 * M.S. in Computer Science - University of Massachusetts (2022-)
 
-### Certificates
+### Certificates 📜
 * [Machine Learning (Coursera)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/9e691885bfa851dbeadeec332b4a158bafc78628/_certificates/Coursera%20VFDU7GX5CAUE%20-%20Machine%20Learning.pdf)
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Coursera)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c2d359782f39f58137527d6b5718ba41c3a6c62f/_certificates/Coursera%20DTAM9QAM8RRB%20-%20Hyperparameter%20Tuning%2C%20Optimization.pdf)
 * [Neural Networks and Deep Learning (Coursera)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c2d359782f39f58137527d6b5718ba41c3a6c62f/_certificates/Coursera%20T4ER9ME7SGYU%20-%20NN%20and%20DL.pdf)
