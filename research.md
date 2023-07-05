@@ -25,13 +25,13 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xj
 
 
 ### Projects 
-#### 2023
+<h5> 2023 </h5>
 - [Visual Story Generation]() - 
 - [Recipe Infusion](https://github.com/Anshumaan-Chauhan02/Recipe-Infusion) -
 - [VisionNet](https://github.com/Anshumaan-Chauhan02/VisionNet) -
 - [CheMapBERT](https://github.com/Anshumaan-Chauhan02/CheMapBERT) -
 - [Human Vs AI Sarcasm Detection](https://github.com/Anshumaan-Chauhan02/HumanVsAI-Sarcasm-Detection) -
-#### 2022
+<h5> 2022 </h5>
 - [Scalability Check for Machine Learning System Predicting Flight Delays](https://github.com/Anshumaan-Chauhan02/Scalability-Check-for-Machine-Learning-System-Predicting-Flight-Delays) -
 - [DQNAS: Neural Architecture Search using Reinforcement Learning](https://github.com/Anshumaan-Chauhan02/DQNAS) -
 - [Is Transformation Better than Resampling for Lesion Segmentation Using Deep Learning in Dermatology?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015031) - 
