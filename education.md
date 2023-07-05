@@ -6,7 +6,7 @@ title: "Education"
 
 ### Degrees 🎓
 
-* B.E. in Computer Science - BITS Pilani Dubai Campus (2018-22) <img src=_images_and_logos/BITS_Pilani-Logo.png height=25 width=25>
+* B.E. in Computer Science - BITS Pilani Dubai Campus (2018-22) <img src=_images_and_logos/BITS_Pilani-Logo.png height=15 width=25>
 * M.S. in Computer Science - University of Massachusetts (2022-)
 
 ### Certificates 📜
