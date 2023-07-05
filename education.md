@@ -11,7 +11,7 @@ title: "Education"
 
 ### Certificates
 * [Machine Learning (Coursera)](https://Anshumaan-Chauhan02.github.io/_certificates/Coursera.VFDU7GX5CAUE.-.Machine.Learning.pdf)
-* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959032/Coursera.DTAM9QAM8RRB.-.Hyperparameter.Tuning.Optimization.pdf)
+* [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Coursera)](https://docs.google.com/viewer?url=${https://github.com/niklasbuschmann/contrast/files/11959032/Coursera.DTAM9QAM8RRB.-.Hyperparameter.Tuning.Optimization.pdf})
 * [Neural Networks and Deep Learning (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959030/Coursera.T4ER9ME7SGYU.-.NN.and.DL.pdf)
 * [Structuring Machine Learning Projects (Coursera)](https://github.com/niklasbuschmann/contrast/files/11959028/Coursera.P3YSQ6RFPS5T.-.Structuring.ML.Projects.pdf)
 * [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://github.com/niklasbuschmann/contrast/files/11959026/UC-1d141f79-d4e1-4e6b-954f-cb4c33f8ed4b.-.Python.for.DS.and.ML.Bootcamp.pdf)
