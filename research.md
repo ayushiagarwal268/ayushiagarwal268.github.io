@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-### Research
+### Research 🔎
 I am currently interested and researching on the following topics pertaining to Deep Learning:
 * Natural Language Processing
    * Multi-Modality Generation conditioned on Text
@@ -14,7 +14,7 @@ I am currently interested and researching on the following topics pertaining to 
    * Image Generation
    * Scene/Image Transformation conditioned on Text   
 
-### Publications
+### Publications 📝
 * Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning
 * [Toward Generating System Architecture and Formal Functional Description in the Architecture Analysis & Design Language (AADL) with Structured Natural Language](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86212/V002T02A077/1150294)
 * [LPRNet: A Novel Approach for Novelty Detection in Networking Packets](https://thesai.org/Publications/ViewPaper?Volume=13&Issue=2&Code=IJACSA&SerialNo=13)
@@ -24,7 +24,7 @@ I am currently interested and researching on the following topics pertaining to 
 Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xjb7cRcAAAAJ&hl=en) for more details about the publications I have been a part of. 
 
 
-### Projects 
+### Projects 💻
 - [Visual Story Generation]() 
 - [Recipe Infusion](https://github.com/Anshumaan-Chauhan02/Recipe-Infusion) 
 - [VisionNet](https://github.com/Anshumaan-Chauhan02/VisionNet) 
