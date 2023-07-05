@@ -11,7 +11,7 @@ title: ""
 <div style="text-align: center"><img src= "https://github.com/niklasbuschmann/contrast/assets/98472023/becad2e9-3acc-43ff-a517-2cc0e1b8bc6d" width= 400 height=350></div>
 <!-- ![](https://github.com/niklasbuschmann/contrast/assets/98472023/becad2e9-3acc-43ff-a517-2cc0e1b8bc6d){:style="display:block; margin-left:auto; margin-right:auto"} -->
 
-Welcome to my personal website! I'm Anshumaan Chauhan 👋, a graduate student pursuing my MS in Computer Science 🖥️ at the [University of Massachusetts Amherst](https://www.umass.edu/) 🏛️. I have a keen interest in Natural Language Processing and its practical applications, particularly in the exciting field of Text Generation (can scan through some of  my projects on my [Github](https://github.com/Anshumaan-Chauhan02)). Additionally, I find myself drawn to exploring the practical aspects of Computer Vision and Reinforcement Learning.
+Welcome to my personal website! I'm Anshumaan Chauhan 👋, a graduate student pursuing my MS in Computer Science 🖥️ at the [University of Massachusetts Amherst](https://www.umass.edu/) 🏛️. I have a keen interest in Natural Language Processing and its practical applications, particularly in the exciting field of Text Generation. Additionally, I find myself drawn to exploring the practical aspects of Computer Vision and Reinforcement Learning.
 
 With a strong foundation in Python, I enjoy implementing various architectures using popular deep learning frameworks such as PyTorch and Keras. I find  diving deep into cutting-edge research papers 📖, experimenting with novel techniques 👨‍💻, and translating theoretical knowledge into practical solutions highly satisfactory.
 
