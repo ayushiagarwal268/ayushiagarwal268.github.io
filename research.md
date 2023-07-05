@@ -32,4 +32,6 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xj
 - [Human Vs AI Sarcasm Detection](https://github.com/Anshumaan-Chauhan02/HumanVsAI-Sarcasm-Detection) 
 - [Scalability Check for Machine Learning System Predicting Flight Delays](https://github.com/Anshumaan-Chauhan02/Scalability-Check-for-Machine-Learning-System-Predicting-Flight-Delays) 
 - [DQNAS: Neural Architecture Search using Reinforcement Learning](https://github.com/Anshumaan-Chauhan02/DQNAS) 
-- [Is Transformation Better than Resampling for Lesion Segmentation Using Deep Learning in Dermatology?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015031) 
+- [Is Transformation Better than Resampling for Lesion Segmentation Using Deep Learning in Dermatology?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015031)
+
+I have linked the project implementations of the above projects available on my [Github](https://github.com/Anshumaan-Chauhan02)
