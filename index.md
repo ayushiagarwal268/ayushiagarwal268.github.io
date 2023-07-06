@@ -2,8 +2,6 @@
 layout: page
 title: ""
 ---
-<!-- If we do not want any title then just leave it empty --> 
-<!-- Normal HTML tags sometimes don't work, so try inline CSS commands for editing -->
 
 <div style="text-align: center"><img src= "https://github.com/niklasbuschmann/contrast/assets/98472023/becad2e9-3acc-43ff-a517-2cc0e1b8bc6d" width= 400 height=350></div>
 
@@ -16,11 +14,3 @@ I actively engage in staying updated with the latest advancements in the field o
 Through this website, I aim to share my experiences, insights, and projects related to my areas of interest. I also plan to start writing some blogs about projects and researchers that excites me the most ✍️. Feel free to explore my portfolio and discover the projects I have undertaken, showcasing my proficiency in implementing state-of-the-art algorithms and solving real-world challenges.
 
 I am always open to collaboration 🤝 and opportunities to work on exciting projects that push the boundaries of DL. If you have any questions, suggestions, or just want to connect ✉️, please don't hesitate to reach out. 
-
-<!-- Use Jekkyl to do more customization [link](https://jekyllrb.com/docs/) -->
-<!-- {% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
--->
