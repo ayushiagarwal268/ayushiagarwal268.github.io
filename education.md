@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Education"
+title: ""
 ---
 <!-- Check different Jekkyl layouts -->
 
