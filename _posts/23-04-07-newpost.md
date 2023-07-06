@@ -1,5 +1,5 @@
 ---
-title:  "New Post"
+title:  "Coming Soon!!"
 mathjax: true
 layout: post
 categories:
@@ -16,6 +16,6 @@ Categories is something that helps us group things
 -->
 
 <!-- Now comes the content which could be anything in markdown -->
-Here is the header
+I will soon share some exciting blogs covering several aspects of Machine Learning starting from basics to the more advanced stuff such as NLP and CV. 
 
 
