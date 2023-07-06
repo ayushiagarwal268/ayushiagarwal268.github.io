@@ -2,7 +2,6 @@
 layout: page
 title: ""
 ---
-<!-- Check different Jekkyl layouts -->
 
 ### Degrees 🎓
 
