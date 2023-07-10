@@ -25,7 +25,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xj
 
 
 ### Projects 💻
-- [Visual Story Generation]() 
+- [Visual Story Generation](https://github.com/Anshumaan-Chauhan02/VST/tree/main) 
 - [Recipe Infusion](https://github.com/Anshumaan-Chauhan02/Recipe-Infusion) 
 - [VisionNet](https://github.com/Anshumaan-Chauhan02/VisionNet) 
 - [CheMapBERT](https://github.com/Anshumaan-Chauhan02/CheMapBERT) 
