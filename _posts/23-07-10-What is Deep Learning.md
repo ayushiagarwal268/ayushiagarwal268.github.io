@@ -12,8 +12,8 @@ Mostly all of us have heard about Deep Learning (DL), Machine Learning (ML) and 
 
 ### Artificial Intelligence 
 One thing that should be clear from the start is that ML and DL are subsets of the field AI. 
-<p>
-        <img src="https://github.com/niklasbuschmann/contrast/assets/98472023/b38aa3da-6173-4044-a7c2-b520dff3031c">
+<p align="center">
+        <img src="https://github.com/niklasbuschmann/contrast/assets/98472023/b38aa3da-6173-4044-a7c2-b520dff3031c" height=150 width=150>
         <em> Venn diagram illustration of AI, ML and DL
                 Source: https://medium.com/swlh/artificial-intelligence-machine-learning-and-deep-learning-whats-the-real-difference-94fe7e528097
         </em>
