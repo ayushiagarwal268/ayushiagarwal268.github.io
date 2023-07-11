@@ -1,6 +1,6 @@
-title: "Anshumaan Chauhan"
-author: "Ansh"
-description: "University of Massachusetts Amherst"
+title: "Ayushi Agarwal"
+author: "Ayushi"
+description: "Arizona State University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
@@ -19,13 +19,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: 'Education', file: "education.md"}
   - {title: "Blogs", file: "blogs.md"}
-  - {title: "CV", url: "Anshumaan Chauhan Resume .pdf"}
+  - {title: "CV", url: "AYUSHI-AGARWAL-RESUME-ASU.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:achauhan@umass.edu"}
-  - {title: Github, icon: github, url: "https://github.com/Anshumaan-Chauhan02"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/anshumaan-chauhan/"}
-  - {title: Google Scholar, icon: rss, url: "https://scholar.google.com/citations?user=xjb7cRcAAAAJ&hl=en"}
+  - {title: Mail, icon: envelope, url: "mailto:aagar115@asu.edu"}
+  - {title: Github, icon: github, url: "https://github.com/ayushiagarwal268"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ayushi-agarwal-7877ab1b2/"}
+  - {title: Google Scholar, icon: rss, url: "https://scholar.google.com/citations?user=Zba5g9wAAAAJ&hl=en&authuser=1"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
