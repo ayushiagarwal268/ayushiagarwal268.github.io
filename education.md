@@ -28,3 +28,4 @@ title: ""
   <li> Image Analytics & Informatics </li>
   <li> Foundations of Algorithms </li>
 </ul>
+</ol>
