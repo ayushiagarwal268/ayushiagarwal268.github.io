@@ -15,7 +15,6 @@ title: ""
    * Artificial Intelligence
    * Neural Networks and Fuzzy Logic
 
-<br>
 
 2) M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) <br>
 **Relevant Courses:**
