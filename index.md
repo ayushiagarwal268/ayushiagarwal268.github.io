@@ -2,7 +2,7 @@
 layout: default
 title: ""
 ---
-
+<div {margin: 0px 75px 0px 75px}>
 <div style="text-align: center"><img src= "https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/assets/114096540/9b7b0568-0299-4771-ae1a-e7b3d73279b1" width= 300 height=300></div>
 
 Hello there! :sassy_woman: I'm Ayushi Agarwal, a passionate graduate student pursuing my MS in Computer Science at <a href="https://asu.edu" target="_blank"> Arizona State University</a> 🏫. With a strong foundation in deep learning and a keen interest in cutting-edge technologies, I strive to make a positive impact through my work.
@@ -18,3 +18,4 @@ In recognition of my academic excellence, I have been awarded the prestigious Ne
 Through this website, I aim to share my experiences, insights, and projects related to deep learning and its diverse applications 🌟. I invite you to explore my portfolio, where you'll find examples of my expertise in implementing cutting-edge algorithms and solving real-world challenges.
 
 I am always open to exciting collaboration opportunities 🤝 and projects that push the boundaries of deep learning. If you have any questions, or suggestions, or simply want to connect, please don't hesitate to reach out. Thank you for visiting my website, and I look forward to connecting with you soon!
+</div>
