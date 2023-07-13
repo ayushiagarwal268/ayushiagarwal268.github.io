@@ -2,7 +2,7 @@
 layout: default
 title: ""
 ---
-<div {margin: 0px 75px 0px 75px}>
+<div style = "margin: 0px 75px 0px 75px">
 <div style="text-align: center"><img src= "https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/assets/114096540/9b7b0568-0299-4771-ae1a-e7b3d73279b1" width= 300 height=300></div>
 
 Hello there! :sassy_woman: I'm Ayushi Agarwal, a passionate graduate student pursuing my MS in Computer Science at <a href="https://asu.edu" target="_blank"> Arizona State University</a> 🏫. With a strong foundation in deep learning and a keen interest in cutting-edge technologies, I strive to make a positive impact through my work.
