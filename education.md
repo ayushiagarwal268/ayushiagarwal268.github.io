@@ -20,7 +20,7 @@ title: ""
 <br>
 <li> M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) </li>
 <ul>
-   <h4>Relevant Courses:</h4>
+<h4>Relevant Courses:</h4>
   <li> Topics in Natural Language Processing </li>
   <li> Data Mining </li>
   <li> Topics in Reinforcement Learning </li>
