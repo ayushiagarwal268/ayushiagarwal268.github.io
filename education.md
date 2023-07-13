@@ -6,7 +6,7 @@ title: ""
 ### Degrees 🎓
 
 * B.E. in Computer Science - <a href="https://www.bits-pilani.ac.in/dubai/" target="_blank"> BITS Pilani Dubai Campus</a> (2018-22)
-## Courses:
+  #### Courses:
   * Database Systems
   * Data Structures and Algorithms
   * Machine Learning
@@ -16,8 +16,9 @@ title: ""
   * Neural Networks and Fuzzy Logic
   * Cryptography
   * Service Oriented Computing
+    
 * M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24)
-## Courses:
+  #### Courses:
   * Topics in Natural Language Processing
   * Data Mining
   * Topics in Reinforcement Learning
