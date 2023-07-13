@@ -6,8 +6,7 @@ title: ""
 ### Degrees 🎓
 
 <ol>
-<li> B.E. in Computer Science - <a href="https://www.bits-pilani.ac.in/dubai/" target="_blank"> BITS Pilani Dubai Campus</a> (2018-22) </li><br>
-
+<li> B.E. in Computer Science - <a href="https://www.bits-pilani.ac.in/dubai/" target="_blank"> BITS Pilani Dubai Campus</a> (2018-22) </li>
 <h4>Relevant Courses:</h4>
 <ul>
    <li> Database Systems </li>
@@ -19,7 +18,7 @@ title: ""
    <li> Neural Networks and Fuzzy Logic </li>
 </ul>
 
-<li>M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) </li><br>
+<li> M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) </li>
 **Relevant Courses:**
   * Topics in Natural Language Processing
   * Data Mining
