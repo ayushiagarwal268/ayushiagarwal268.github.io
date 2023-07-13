@@ -5,4 +5,4 @@ title: ""
 
 <div style="text-align: center"><img src= "https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/assets/114096540/9b7b0568-0299-4771-ae1a-e7b3d73279b1" width= 300 height=300></div>
 
-Welcome to my personal website! I'm Ayushi Agarwal 👋, a graduate student pursuing my MS in Computer Science. 
+Welcome to my personal website! I'm Ayushi Agarwal 👋, a graduate student pursuing my MS in Computer Science at <a href="https://asu.edu" target="_blank"> Arizona State University</a>. 
