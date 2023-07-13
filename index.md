@@ -2,10 +2,10 @@
 layout: default
 title: ""
 ---
-<div style = "margin: 15px 125px 15px 125px">
+<div style = "margin: 100px 300px 75px 300px">
 <div style="text-align: center"><img src= "https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/assets/114096540/9b7b0568-0299-4771-ae1a-e7b3d73279b1" width= 300 height=300></div>
 
-<p> Hello there! :sassy_woman: I'm Ayushi Agarwal, a passionate graduate student pursuing my MS in Computer Science at <a href="https://asu.edu" target="_blank"> Arizona State University</a> 🏫. With a strong foundation in deep learning and a keen interest in cutting-edge technologies, I strive to make a positive impact through my work. </p>
+<p> Hello there! 💁‍♀️ I'm Ayushi Agarwal, a passionate graduate student pursuing my MS in Computer Science at <a href="https://asu.edu" target="_blank"> Arizona State University</a> 🏫. With a strong foundation in deep learning and a keen interest in cutting-edge technologies, I strive to make a positive impact through my work. </p>
 
 <p> As an aspiring data scientist 🎯, I have focused my studies on areas such as Computer Vision, Natural Language Processing, and Reinforcement Learning. These fields fascinate me because of their potential to revolutionize how we interact with machines and how machines understand the world around us. </p>
 
