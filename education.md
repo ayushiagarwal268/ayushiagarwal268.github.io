@@ -6,15 +6,17 @@ title: ""
 ### Degrees 🎓
 
 1) B.E. in Computer Science - <a href="https://www.bits-pilani.ac.in/dubai/" target="_blank"> BITS Pilani Dubai Campus</a> (2018-22) <br>
-**Relevant Courses:**
-   * Database Systems
-   * Data Structures and Algorithms
-   * Machine Learning
-   * Data Mining
-   * Deep Learning
-   * Artificial Intelligence
-   * Neural Networks and Fuzzy Logic
 
+<h3>Relevant Courses:</h3>
+<ul>
+   <li> Database Systems </li>
+   <li> Data Structures and Algorithms </li>
+   <li> Machine Learning </li>
+   <li> Data Mining </li>
+   <li> Deep Learning </li>
+   <li> Artificial Intelligence </li>
+   <li> Neural Networks and Fuzzy Logic </li>
+</ul>
 
 2) M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) <br>
 **Relevant Courses:**
