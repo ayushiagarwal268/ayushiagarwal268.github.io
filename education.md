@@ -7,7 +7,7 @@ title: ""
 
 1) B.E. in Computer Science - <a href="https://www.bits-pilani.ac.in/dubai/" target="_blank"> BITS Pilani Dubai Campus</a> (2018-22) <br>
 
-<h3>Relevant Courses:</h3>
+<h5>Relevant Courses:</h5>
 <ul>
    <li> Database Systems </li>
    <li> Data Structures and Algorithms </li>
