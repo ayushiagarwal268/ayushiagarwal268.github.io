@@ -17,7 +17,7 @@ title: ""
    <li> Artificial Intelligence </li>
    <li> Neural Networks and Fuzzy Logic </li>
 </ul>
-
+<br>
 <li> M.S. in Computer Science - <a href="https://asu.edu" target="_blank"> Arizona State University</a> (2022-24) </li>
 **Relevant Courses:**
   * Topics in Natural Language Processing
