@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: 'Education', file: "education.md"}
   - {title: "Blogs", file: "blogs.md"}
-  - {title: "CV", url: "Ayushi_Agarwal_Resume.pdf"}
+  - {title: "CV", url: "AYUSHI-AGARWAL-RESUME.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:aagar115@asu.edu"}
