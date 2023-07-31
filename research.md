@@ -21,6 +21,7 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=Zb
 
 
 ### Projects 💻
+- [Visual Story Generation](https://github.com/ayushiagarwal268/VST)
 - [Is Transformation Better than Resampling for Lesion Segmentation Using Deep Learning in Dermatology?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015031)
 
 I have linked the implementations of the above projects available on my [Github](https://github.com/ayushiagarwal268).
