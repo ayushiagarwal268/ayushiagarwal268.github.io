@@ -11,7 +11,7 @@ title: ""
 * Visual Transformers for Image Generation and Transformation: Researching the application of visual transformer models in computer vision tasks, particularly in image generation and scene transformation conditioned on text inputs. Exploring the potential of self-attention mechanisms to capture global dependencies and generate high-quality visual outputs.
 
 ### Publications 📝
-* [Can NLP Models 'Identify', 'Distinguish', and 'Justify' Questions that Don't Have a Definitive Answer?] (https://trustnlpworkshop.github.io/papers/35.pdf)
+* [Can NLP Models 'Identify', 'Distinguish', and 'Justify' Questions that Don't Have a Definitive Answer?](https://trustnlpworkshop.github.io/papers/35.pdf)
 * Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning
 * [LPRNet: A Novel Approach for Novelty Detection in Networking Packets](https://thesai.org/Publications/ViewPaper?Volume=13&Issue=2&Code=IJACSA&SerialNo=13)
 * [Performance Analysis of Machine Learning Algorithms and Feature Extraction Methods for Sentiment Analysis](https://ieeexplore.ieee.org/document/9633882)
